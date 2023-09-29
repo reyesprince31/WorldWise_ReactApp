@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Binangonan",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T04:51:15.360Z",
+      "notes": "haha",
+      "position": {
+        "lat": "14.455958231194037",
+        "lng": "121.13525390625001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Davao",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T04:54:48.377Z",
+      "notes": "",
+      "position": {
+        "lat": "7.25349605006954",
+        "lng": "125.28808593750001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Malitbog",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T05:07:31.383Z",
+      "notes": "province",
+      "position": {
+        "lat": "8.52670061045018",
+        "lng": "124.88021850585939"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Urdaneta",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T10:39:31.351Z",
+      "notes": "haha",
+      "position": {
+        "lat": "15.974532118698713",
+        "lng": "120.60516357421876"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Santa Maria",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T10:43:52.255Z",
+      "notes": "",
+      "position": {
+        "lat": "14.818947167273873",
+        "lng": "120.96419334411621"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Baguio",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T10:54:04.123Z",
+      "notes": "",
+      "position": {
+        "lat": "16.411139614131265",
+        "lng": "120.59263229370119"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Davao",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-09-21T10:57:09.835Z",
+      "notes": "",
+      "position": {
+        "lat": "7.214041000122537",
+        "lng": "125.31656359863284"
+      },
+      "id": 98443211
+    }
+  ]
+}
